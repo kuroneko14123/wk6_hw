@@ -1,0 +1,242 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.container
+{
+	margin: 0px auto;
+	width: 984px;
+	height: inherit;
+}
+body
+{
+	background-color: #1b2838;
+}
+body #header
+{
+	background-color:#171a21;
+	height: 104px;
+}
+.logo
+{
+	float: left;
+	margin-right: 596px;
+	padding-top: 30px;
+
+}
+.head_btn
+{
+	padding-top: 40px;
+}
+.head_btn button
+{
+	border: none;
+	background-color: #171a21;
+	color: #b8b6b4;
+	font-size: 14px;
+	margin-right: 15px;
+}
+.overview
+{
+	height: 460px;
+	background-color: rgba(0,0,0,.4);
+}
+.left_col
+{
+	float: left;
+	width: 576px;
+}
+#gameplay
+{
+	width: 576px;
+}
+#gameplay img
+{
+	width: 576px;
+	height: 337px;
+}
+#content
+{
+	margin-top: 25px;
+	font-family:  Arial,Helvetica,sans-serif;
+	display: grid;
+}
+
+#highlight
+{
+	margin-top: 15px;
+	display: inline-flex;
+	width: 576px;
+}
+#highlight img
+{
+	width: 168px;
+	height: 100px;
+	float: inherit;
+	font-size: 0;
+}
+#left
+{
+}
+#left img
+{
+	margin-right: 36px;
+	float: left;
+}
+.right_col
+{
+	float: right;
+	width: 374px;
+	padding-left: 20px;
+}
+#game_icon
+{
+	height: 175px;
+	margin-bottom: 7px;
+}
+#game_icon img
+{
+	width: 372px;
+	height: 175px;
+	font-size: 0;
+}
+.discription
+{
+	font-size: 13px;
+	line-height: 18px;
+	padding-right: 16px;
+	color: #c6d4df;
+}
+.tag
+{
+	margin-top: 156px;
+	
+}
+.tag p
+{
+	font-size: 12px;
+	color: #61686d;
+	line-height: 19px;
+}
+.tag button
+{
+	border-radius: 2px;
+	background-color: #223a4f ;
+	border: none;
+	color: #67c1f5;
+	padding: 0px 7px;
+}
+.detail
+{
+	margin-top: 20px;
+	width: 984px;
+	display: inline-block;
+}
+.date
+{
+	background-color: #363e4e;
+	margin-top: 15px;
+}
+.important_text 
+{
+	padding:12px 16px 26px 16px;
+	color: #ffffff;
+	font-size: 21px;
+	font-family: monospace;
+}
+.sell
+{
+	background-color: #363e4e;
+	margin-top: 15px;
+	position: relative;
+}
+.purchase
+{
+	position: absolute;
+	right: 16px;
+	bottom: -17px;
+	left: 16px;
+	text-align: right;
+}
+.purchase_detail
+{
+	height: 32px;
+	display: inline-block;
+	background-color: #000;
+	padding: 2px 2px 2px 0px;
+	border-radius: 2px;
+	font-size: 0;
+}
+.price
+{
+	color: #ffffff;
+	background-color: #000;
+	font-size: 13px;
+	padding: 8px 12px 0px 12px;
+	height: 24px;
+	float: left;
+}
+.addtocart
+{
+	height: 32px;
+	padding: 0px 15px;
+	font-size: 15px;
+	color: #d2e885!important;
+	border-radius: 2px;
+	background-color: #658004;
+	border: none;
+}
+.subtitle
+{
+	color: #ffffff;
+	margin-top: 60px;
+	letter-spacing: 2px;
+	font-size: 20px;
+	font-family: monospace;
+
+}
+.dlc
+{
+	margin-top: 2px;
+	background-color: #363e4e;
+	color: #a4b2ba;
+	font-size: 8px;
+	padding: 4px 0 4px 14px;
+	font-family: monospace;
+
+}
+.about
+{
+	margin-top: 2px;
+	background-color: #363e4e;
+	font-size: 14px;
+	color: #a4b2ba;
+	padding: 10px 0px 20px 14px;
+	font-family: monospace;	
+
+}
+.game_detail
+{
+	margin-top: 15px;
+	background-color: rgba(0,0,0,.4);
+	font-size: 12px;
+	color: #61686d;
+	line-height: 20px;
+	padding: 16px;
+	font-weight: lighter;
+}
+.game_detail b
+{
+	font-weight: lighter;
+}
+#footer
+{
+	background-color:#171a21;
+	height: 80px;
+	font-size: 8px;
+	color: #8f98a0;
+	margin-top: 40px;
+	padding-top: 25px;
+}
